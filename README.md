@@ -1,3 +1,3 @@
 # testing
 This is first Git repository
-Zulfiqar Ahmad
+Author: Zulfiqar Ahmad
