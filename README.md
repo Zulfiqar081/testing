@@ -1,4 +1,4 @@
 # testing
-This is first Git repository
+This is first Git repository.
 <br>
-Author: Zulfiqar Ahmad
+Author: Zulfiqar (Zulfi)
